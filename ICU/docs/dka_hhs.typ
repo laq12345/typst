@@ -61,7 +61,7 @@
   radius: 4pt,
 )[
   #grid(
-    columns: (1fr, 1fr),
+    columns: 1,
     gutter: 0pt,
     table(
       columns: (1fr,),

@@ -14,5 +14,5 @@
 )
 
 #figure(
-  image("images/pte3.png", width: 844pt),
+  image("images/pte3.png"),
 )
