@@ -30,7 +30,7 @@
 
 T管法：保持FiO#sub[2]不变，患者处于完全自主呼吸状态
 
-低水平PSV法：通气模式改为PSV，压力支持水平维持在5~10cmH#sub[2]O，FiO#sub[2]不变
+低水平PSV法：通气模式改为PSV，压力支持水平维持在5\~10cmH#sub[2]O，FiO#sub[2]不变
 
 低水平CPAP法：通气模式改为CPAP，保持PEEP为5cmH#sub[2]O，FiO#sub[2]维持不变
 

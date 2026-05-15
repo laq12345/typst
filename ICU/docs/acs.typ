@@ -4,7 +4,7 @@
 
 == 定义
 
-正常腹腔压力（IAP）：5~7mmHg
+正常腹腔压力（IAP）：5\~7mmHg
 
 腹腔高压症（IAH）为腹腔压力出现持续或反复的病理性升高≥12mmHg
 
@@ -21,9 +21,9 @@
       cell(text(weight: "bold")[分级]),
       cell(text(weight: "bold")[IAP/mmHg]),
     ),
-    cell[I级], cell[12~15],
-    cell[II级], cell[16~20],
-    cell[III级], cell[21~25],
+    cell[I级], cell[12\~15],
+    cell[II级], cell[16\~20],
+    cell[III级], cell[21\~25],
     cell[IV级], cell[>25],
   ),
   caption: "腹腔压力分级",
